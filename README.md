@@ -58,6 +58,7 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 ## Built With :heart:
 - Laravel full-stack PHP framework
 - Bootstrap 4 front-end framework
+- with new languages
 
 ## Author
 TastyIgniter was created by [Samuel Adepoyigi](https://github.com/sampoyigi).
